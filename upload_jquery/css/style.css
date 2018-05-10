@@ -1,0 +1,30 @@
+/*CSS*/
+body{
+    font-size: 25px;
+}
+
+#resultado{
+    border: 1px solid black;
+    font-size: 30px;
+    width: 300px;
+}
+
+#resultado td{
+    border: 1px solid black;
+}
+
+#img_tabela{
+    height: 200px;
+}
+
+#visualizar{
+    width: 200px;
+    height: 150px;
+    background-color: aquamarine;
+}
+
+#visualizar img{
+    width: 150px;
+    height: 100px;
+    background-color: aquamarine;
+}

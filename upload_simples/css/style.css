@@ -1,0 +1,18 @@
+/*CSS*/
+body{
+    font-size: 25px;
+}
+
+#resultado{
+    border: 1px solid black;
+    font-size: 30px;
+    width: 300px;
+}
+
+#resultado td{
+    border: 1px solid black;
+}
+
+#img_tabela{
+    height: 200px;
+}
